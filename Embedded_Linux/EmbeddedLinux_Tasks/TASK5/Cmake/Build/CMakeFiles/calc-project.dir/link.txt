@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/calc-project.dir/main.c.o CMakeFiles/calc-project.dir/Source/add.c.o CMakeFiles/calc-project.dir/Source/div.c.o CMakeFiles/calc-project.dir/Source/mod.c.o CMakeFiles/calc-project.dir/Source/mul.c.o CMakeFiles/calc-project.dir/Source/sub.c.o -o calc-project  Library/liboperation.a 
