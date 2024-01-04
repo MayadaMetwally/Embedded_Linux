@@ -1,0 +1,6 @@
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/CMakeFiles/calc-project.dir
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/CMakeFiles/edit_cache.dir
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/CMakeFiles/rebuild_cache.dir
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/Library/CMakeFiles/operation.dir
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/Library/CMakeFiles/edit_cache.dir
+/home/mayada/ASSIGNMENT_LINUX/Cmake/Build/Library/CMakeFiles/rebuild_cache.dir
